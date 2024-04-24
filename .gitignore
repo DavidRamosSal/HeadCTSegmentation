@@ -1,0 +1,5 @@
+__pycache__/
+
+/results_folder
+*weights.hdf5*
+/*_sorted
