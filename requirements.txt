@@ -1,0 +1,7 @@
+numpy
+tqdm
+scikit-image
+matplotlib
+scikit-learn
+nibabel
+scipy
